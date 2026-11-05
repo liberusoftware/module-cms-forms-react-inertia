@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-forms-react-inertia",
+  "capabilityKey": "liberusoftware/module-cms-forms",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-cms-forms-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/cms/nextjs/cms-forms.md",
+  "presentationPlan": "projects/cms/react/cms-forms.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
